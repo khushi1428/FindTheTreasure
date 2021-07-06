@@ -1,1 +1,1 @@
-# FindTheTreasure
+# TREASURE-HUNT
